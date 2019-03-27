@@ -1,2 +1,2 @@
 # Hidden-markov-model
-Read input from file, clean the dataset and create hidden markov model in Java programming language
+Read input from file, clear the dataset and create hidden markov model in Java programming language
